@@ -67,6 +67,11 @@ switch (z) {
     break;
 
 }
+console.log("dog");
+//changes
+console.log("cat");
+
+
 
 
 
