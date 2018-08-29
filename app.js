@@ -1,1 +1,1 @@
-console.log("Hello Javascipt
+console.log("Hello Javascipt")
